@@ -10,3 +10,7 @@ Macのターミナルの環境をまとめるために、ここで.＊＊＊の�
 ```bash
 brew install zsh-completions
 ```
+# Auto suggestionを入れる
+```bash
+brew install zsh-autosuggestions 
+```
