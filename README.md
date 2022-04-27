@@ -14,3 +14,6 @@ brew install zsh-completions
 ```bash
 brew install zsh-autosuggestions 
 ```
+
+# zshの表示をかっこよくする
+https://zenn.dev/tai_hatake/articles/7091de94f4a4c96ca398
